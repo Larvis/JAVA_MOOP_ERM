@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
-<comment>Mon Mar 14 12:50:32 GMT+06:00 2022</comment>
+<comment>Mon Apr 25 02:40:39 GMT+06:00 2022</comment>
 <entry key="new30">7.7</entry>
-<entry key="is_zero">true</entry>
-<entry key="new32">0.4</entry>
 <entry key="new10">3.7</entry>
+<entry key="new32">0.4</entry>
+<entry key="is_zero">true</entry>
 <entry key="new31">6.0</entry>
 <entry key="old14">3.9</entry>
 <entry key="old12">0.7</entry>
